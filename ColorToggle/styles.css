@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+* .grey-background {
+  background-color: #bcbcbc;
+}
+* .btn img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+  background-color: transparent;
+}
+* .btn img:hover {
+  opacity: 0.75;
+}
+* .nav-sidebar ul {
+  visibility: hidden;
+}
+* li {
+  margin: 1.5px;
+  height: 20px;
+  width: 250px;
+  padding: 20px;
+  text-align: start;
+  border-color: white;
+  background-color: grey;
+}
+* li a {
+  color: black;
+  text-decoration: none;
+}
+* .li-1 {
+  background-color: #b5b5b5;
+}
+* .li-2 {
+  background-color: red;
+}
+* .li-3 {
+  background-color: orange;
+}
+* .li-4 {
+  background-color: purple;
+}
+* .li-5 {
+  background-color: green;
+}/*# sourceMappingURL=styles.css.map */
